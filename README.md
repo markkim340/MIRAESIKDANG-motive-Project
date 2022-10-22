@@ -20,9 +20,9 @@
 
 ## 2. 사용된 기술 스택
 
-- FE : Javascript, react.js
-- BE : Javascript, Node.js, Express, MySQL, Postman
-- Tools : Slack, Trello, Zep, Zoom, Notion
+- FE : React.js
+- BE : Node.js, Express, MySQL, TypeORM, Bcrypt, JWT
+- Tools : Postman, Trello, Slack, Zep, Zoom, Notion, Google Sheets
 
 ---
 
